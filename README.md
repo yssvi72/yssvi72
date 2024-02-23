@@ -1,8 +1,14 @@
 # About Me:
 
 🔭 I’m currently working on a Ocean plastic detection using satellite imagery
+
+
 🌱 I’m currently learning React.js , Geospatial and machine learning algorithms.
+
+
 💬 Ask me about anything MERN Stack, C++ , DSA
+
+
 ⚡ Fun Fact: I am trying to remain consistent  
 
 
