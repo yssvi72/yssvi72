@@ -6,7 +6,7 @@
 🌱 I’m currently learning React.js , Geospatial and machine learning algorithms.
 
 
-💬 Ask me about anything MERN ,  C++ , DSA
+💬 Ask me about anything Android ,  MERN ,  C++ , DSA
 
 
 ⚡ Fun Fact: I am trying to remain consistent  
