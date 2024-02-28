@@ -11,7 +11,7 @@
 
 ⚡ Fun Fact: I am trying to remain consistent  
 
- BG Quotes for motivation (Ch 6 ,Text 5) : "One must deliver himself with the help of this mind and not degrade himself. The mind is a friend of the conditioned soul , and his enemy as well."
+ BG Quotes for motivation (Ch 6 ,Text 5) : "One must elevate himself with the help of this mind and not degrade himself. The mind is a friend of the conditioned soul , and his enemy as well."
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yssvi72)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yssvi72&layout=compact)
