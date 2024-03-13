@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi ! I am yssvi , a developer and a student
 <br>🔭 I’m currently working on a Ocean plastic detection using satellite imagery<br><br>🌱 I’m currently learning React.js , Geospatial and machine learning algorithms.<br><br>💬 Ask me about anything Android , MERN , C++ , DSA<br><br>⚡ Fun Fact: I am trying to remain consistent<br>
 <br> BG Quote for motivation: One must elevate himself by his own mind, not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.<br><br>
 
