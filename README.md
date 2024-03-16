@@ -1,5 +1,5 @@
 # 💫 About Me: Hi ! I am yssvi , a developer and a student
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
+<img align="right"  src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
 <br>🔭 I’m currently working on a Ocean plastic detection using satellite imagery<br><br>🌱 I’m currently learning React.js , Geospatial and machine learning algorithms.<br><br>💬 Ask me about anything Android , MERN , C++ , DSA<br><br>⚡ Fun Fact: I am trying to remain consistent<br>
 <br> BG Quote(Chapt6, Quote 5) for motivation: One must elevate himself by his own mind, not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.<br><br>
 
