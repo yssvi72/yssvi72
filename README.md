@@ -1,4 +1,3 @@
-
 # 💫 About Me: Hi ! I am yssvi , a developer and a student
 <img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 <br>🔭 I’m currently working on a Ocean plastic detection using satellite imagery<br><br>🌱 I’m currently learning React.js , Geospatial and machine learning algorithms.<br><br>💬 Ask me about anything Android , MERN , C++ , DSA<br><br>⚡ Fun Fact: I am trying to remain consistent<br>
