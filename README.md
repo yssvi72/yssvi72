@@ -1,7 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 # 💫 About Me: Hi ! I am yssvi , a developer and a student
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br>🔭 I’m currently working on a Ocean plastic detection using satellite imagery<br><br>🌱 I’m currently learning React.js , Geospatial and machine learning algorithms.<br><br>💬 Ask me about anything Android , MERN , C++ , DSA<br><br>⚡ Fun Fact: I am trying to remain consistent<br>
 <br> BG Quote(Chapt6, Quote 5) for motivation: One must elevate himself by his own mind, not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.<br><br>
 
