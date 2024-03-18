@@ -17,5 +17,7 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yssvi72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## Current Streaks:
+[![GitHub Streak](https://streak-stats.demolab.com?user=yssvi72)](https://git.io/streak-stats)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
