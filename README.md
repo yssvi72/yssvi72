@@ -18,11 +18,12 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yssvi72&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yashyashsvi-singh-b522b1287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashyashsvi-singh-b522b1287/" height="30" width="40" /></a>
 <a href="https://leetcode.com/yash2_svi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yash2_svi/" height="30" width="40" /></a>
 </p>
+-->
 
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
