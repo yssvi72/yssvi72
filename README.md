@@ -18,6 +18,8 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yssvi72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+##Socials:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Yash2_svi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://leetcode.com/Yash2_svi/)  
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
