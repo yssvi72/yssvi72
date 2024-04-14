@@ -1,5 +1,5 @@
 # 💫 About Me: I am yssvi , a developer and a student 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yssvi+here;I+am+a+Third+Year+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)<img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yssvi+here;I+am+a+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)<img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 <br>🔭 I’m currently working on a Ocean plastic detection using satellite imagery<br><br>🌱 I’m currently learning React.js , Geospatial and machine learning algorithms.<br><br>💬 Ask me about anything Android , MERN , C++ , DSA<br><br>⚡ Fun Fact: I am trying to remain consistent<br><br> 👯 I’m looking to collaborate on  MERN stack  and ML Projects </br> <br>- 📫 How to reach out to me : yash2svi@gmail.com</br>
 <br> BG Quote(Chapt6, Quote 5) for motivation: One must elevate himself by his own mind, not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.<br><br>
 
