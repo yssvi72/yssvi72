@@ -22,7 +22,7 @@
 
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yssvi72&show_icons=true&locale=en&layout=compact&theme=radical" alt="yssvi72" height="200" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yssvi72&show_icons=true&locale=en&layout=compact&theme=radical" alt="yssvi72" height="200" width="400" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yssvi72&show_icons=true&locale=en&theme=radical" alt="yssvi72" height="200" />
   </p>
   <p>
