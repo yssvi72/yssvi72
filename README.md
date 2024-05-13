@@ -1,10 +1,11 @@
 # Hi 👋 I am yssvi , a developer and a student
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yssvi+here;I+am+a+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)<img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yssvi+here;I+am+a+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssvi72&label=Profile%20views&color=0e75b6&style=flat" alt="yssvi72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yssvi72" alt="yssvi72" /></a> </p>
 
-- 🔭 I’m currently working on **Ocean plastic detection using satellite imagery**
+- 🔭 I'm currently working on **Ocean plastic detection using satellite imagery** <img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 - 🌱 I’m currently learning **React.js , Geospatial and machine learning algorithms**
 
