@@ -25,6 +25,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yssvi72&show_icons=true&locale=en&theme=radical" alt="yssvi72" height="230" />
 </p>
 
-<p align="center">
+<div align="center" style="max-width: 100%;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yssvi72&theme=radical" alt="yssvi72" height="230" />
-</p>
+</div>
