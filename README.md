@@ -1,8 +1,5 @@
 # 💫 About Me: I am yssvi , a developer and a student
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yssvi+here;I+am+a+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)<img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
-<h1 align="center">Hi 👋, I'm yssvi</h1>
-<h3 align="center">A passionate developer and a student</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssvi72&label=Profile%20views&color=0e75b6&style=flat" alt="yssvi72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yssvi72" alt="yssvi72" /></a> </p>
