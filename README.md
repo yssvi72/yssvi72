@@ -24,9 +24,9 @@
 <div align="center">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yssvi72&show_icons=true&locale=en&layout=compact&theme=radical" alt="yssvi72" height="230" width="350" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yssvi72&show_icons=true&locale=en&theme=radical" alt="yssvi72" height="400" width="400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yssvi72&show_icons=true&locale=en&theme=radical" alt="yssvi72" height="470" width="470" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yssvi72&theme=radical" alt="yssvi72" height="230" width="350" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yssvi72&theme=radical" alt="yssvi72" height="450" width="450" />
   </p>
 </div>
