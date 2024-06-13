@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js , Geospatial and machine learning algorithms**
 
-- 👯 I’m looking to collaborate on **MERN stack and ML Projects**
+- 👯 I’m looking to collaborate on **MERN stack and ML projects**
 
 - 🤝 I’m looking for help with **Android , MERN , C++ , DSA**
 
