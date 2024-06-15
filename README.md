@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **Ocean plastic detection using satellite imagery** <img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-- 🌱 I’m currently learning **React.js , Geospatial and machine learning algorithms**
+- 🌱 I’m currently learning **NLP , LLM and machine learning algorithms**
 
 - 👯 I’m looking to collaborate on **MERN stack and ML projects**
 
