@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack and ML projects**
 
-- 🤝 I’m looking for help with **Android , MERN , C++ , DSA**
+- 🤝 I’m looking for help with **NLP , LLM and Langchain**
 
 - 💬 Ask me about **Android , MERN , C++ , DSA**
 
