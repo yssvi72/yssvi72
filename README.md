@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack and ML projects**
 
-- 🤝 I'm looking forward to work with **NLP , LLM and Langchain**
+- 🤝 I'm looking forward to work with **NLP , LLM & Langchain**
 
 - 💬 Ask me about **Android , MERN , C++ , Python, DSA **
 
