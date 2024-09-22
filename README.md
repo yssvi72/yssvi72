@@ -17,6 +17,8 @@
 
 - BG quote for motivation : " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
+- Leetode id "https://leetcode.com/u/yash_svi72/"
+
 - 📫 How to reach me **yash2svi@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
