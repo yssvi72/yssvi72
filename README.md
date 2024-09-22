@@ -1,4 +1,4 @@
-# Hi 👋 I am yssvi , a developer and a student
+# Hi 👋 I am yash2svi , a developer and a student
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yash2svi+here;I+am+a+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssvi72&label=Profile%20views&color=0e75b6&style=flat" alt="yssvi72" /> </p>
