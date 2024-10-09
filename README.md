@@ -17,8 +17,7 @@
 
 - BG quote for motivation : " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 </p>
 
