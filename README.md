@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack and ML projects**
 
-- 🤝 I'm looking forward to work with **NLP , LLM & Langchain**
+- 🤝 I'm looking forward to work with **NLP , LLM & Hugging Face library**
 
 - 💬 Ask me about **Android , MERN , C++ , Python, DSA **
 
@@ -25,6 +25,9 @@
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
