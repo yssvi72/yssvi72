@@ -97,7 +97,6 @@
     <img src="https
 ::contentReference[oaicite:0]{index=0}
 
-![Description](https://camo.githubusercontent.com/80bf69eac4a2a8976c7adff9625bdaa6dcf86b3fce190586ad1bd719fa2403d0/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e6769)
 
 
 
