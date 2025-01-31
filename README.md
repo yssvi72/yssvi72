@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssvi72&label=Profile%20views&color=0e75b6&style=flat" alt="yssvi72" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yssvi72" alt="yssvi72" /></a> </p>
 
 - 🔭 I'm currently working on **Computer vision projects** <img align="right" alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
@@ -96,6 +95,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https
 ::contentReference[oaicite:0]{index=0}
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yssvi72" alt="yssvi72" /></a> </p>
 
 
 
