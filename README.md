@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NLP , LLM and machine learning algorithms**
 
-- 👯 I’m looking to collaborate on **MERN stack and ML projects**
+- 👯 I’m looking to collaborate on **MERN and AI projects
 
 - 🤝 I'm looking forward to work with **NLP , LLM & Hugging Face library**
 
