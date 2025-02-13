@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working on **Computer vision projects** <img align="right" alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
-- 🌱 I’m currently learning **NLP , Machine learning, LLM and machine learning algorithms**
+- 🌱 I’m currently learning **NLP  LLM and machine learning algorithms**
 
 - 👯 I’m looking to collaborate on **MERN and AI projects**
 
