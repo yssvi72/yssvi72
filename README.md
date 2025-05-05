@@ -15,7 +15,7 @@
 
 - 🤝 I'm looking forward to work with **NLP , LLM & Hugging Face library**
 
-- 💬 Ask me about  Android , C++ , Python, DSA , Data science
+- 💬 Ask me about  Android , C++ , Python, DSA , machine learning algorithm
 
 - BG quote for motivation : " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
