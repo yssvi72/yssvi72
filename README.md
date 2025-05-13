@@ -17,7 +17,7 @@
 
 - 💬 Ask me about  Android , C++ , Python, DSA , machine learning algorithm
 
-- BG quote for motivation : " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
+- " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
 
 
