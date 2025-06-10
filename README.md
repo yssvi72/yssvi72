@@ -15,7 +15,6 @@
 
 - 🤝 I'm looking forward to work with ** Machine learning & NLP & Hugging Face library**
 
-- 💬 Ask me about  Android , C++ , Python, DSA , machine learning algorithm
 
 - " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
