@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NLP , LLM and machine learning algorithms**
 
-- 🤝 I'm looking forward to work with ** Machine learning & NLP & Hugging Face library**
+- 🤝 I'm looking forward to work with  **Machine learning & NLP & Hugging Face library**
 
 
 - " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
