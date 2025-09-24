@@ -1,9 +1,7 @@
 # Hi 👋 I am yash2svi , a backend developer 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yash2svi+here;I+am+a+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yssvi72" alt="yssvi72" /></a> </p>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssvi72&label=Profile%20views&color=0e75b6&style=flat" alt="yssvi72" /> </p>
@@ -11,10 +9,7 @@
 
 - 🔭 I'm currently working on **Android and Springboot projects ** <img align="right" alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
-- 🌱 I’m currently learning **microservices , AWS, Kafka **
-
-- 🤝 I'm looking forward to work with  **Machine learning & NLP & Hugging Face library**
-
+- 🌱 I’m currently learning **microservices , AWS, Kafka  **
 
 - " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
