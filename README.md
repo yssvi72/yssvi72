@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Android as well as Springboot projects ** <img align="right" alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
-- 🌱 I’m currently learning **microservices , AWS, Kafka  **
+- 🌱 I’m currently learning **microservices , Kafka  **
 
 - " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
