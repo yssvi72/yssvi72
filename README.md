@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **microservices , Kafka  **
 
-- " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
+- B.G Quote " Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self. "
 
 
 
