@@ -1,4 +1,4 @@
-# Hi 👋 I am yash2svi , a JAVA backend developer 
+# Hi 👋 I am yash2svi , backend developer 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+yash2svi+here;I+am+a+Computer+Science+Student;Feel+free+to+connect+and+ask+doubts)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yssvi72" alt="yssvi72" /></a> </p>
